@@ -1,0 +1,9 @@
+baseURL = "https://blog.nidhalsaidani.com/"
+languageCode = "en-us"
+title = "Nidhal Saïdani"
+theme = "hugo-bearblog"
+enableRobotsTXT = true
+
+[params]
+author = "Nidhal Saïdani"
+description = "A minimalist blog powered by Hugo and Bearblog theme."
